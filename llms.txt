@@ -1,0 +1,24 @@
+# Project Name
+
+> A brief description of what this project does and who it's for.
+
+This repository follows a standardized template structure for GitHub projects, including mandatory task management and configuration files to streamline development workflows.
+
+## Documentation
+
+- [Main README](README.md): Primary project documentation, technology stack, and setup instructions
+- [Contributing Guide](CONTRIBUTING.md): Guidelines for contributing to the project
+- [Code of Conduct](CODE_OF_CONDUCT.md): Community guidelines and expectations
+- [Security Policy](SECURITY.md): Instructions for reporting security vulnerabilities
+
+## Task Management
+
+- [Project Tasks](tasks/todo.md): Actionable task tracking, milestones, and review notes
+- [Lessons Learned](tasks/lessons.md): Patterns and lessons accumulated over the project lifecycle
+
+## Configuration
+
+- [Environment Variables](.env): Private API keys and secrets (not tracked by version control)
+- [Humans Metadata](humans.txt): Author details, repository metadata, and technology stack information
+- [Repository Metadata](.github/repository-metadata.json): Standard JSON structure for automated repository tracking
+- [Funding Configuration](.github/FUNDING.yml): GitHub sponsors and funding details
